@@ -13,7 +13,7 @@
       </sidebar-link>
       <sidebar-link to="/user">
         <md-icon>person</md-icon>
-        <p>User Profile</p>
+        <p>Manage Employee</p>
       </sidebar-link>
       <sidebar-link to="/table">
         <md-icon>content_paste</md-icon>
@@ -34,10 +34,6 @@
       <sidebar-link to="/notifications">
         <md-icon>notifications</md-icon>
         <p>Notifications</p>
-      </sidebar-link>
-      <sidebar-link to="/upgrade" class="active-pro">
-        <md-icon>unarchive</md-icon>
-        <p>Upgrade to PRO</p>
       </sidebar-link>
     </side-bar>
 

@@ -132,10 +132,10 @@ vue-material-dashboard
     │   ├── TableList.vue
     │   ├── Typography.vue
     │   ├── UpgradeToPRO.vue
-    │   ├── UserProfile
+    │   ├── ManageEmployee
     │   │   ├── EditProfileForm.vue
     │   │   └── UserCard.vue
-    │   ├── UserProfile.vue
+    │   ├── ManageEmployee.vue
     │   └── index.js
     └── routes
         └── routes.js
