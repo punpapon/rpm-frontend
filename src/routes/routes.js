@@ -2,7 +2,7 @@ import DashboardLayout from "@/pages/Layout/DashboardLayout.vue";
 
 import Dashboard from "@/pages/Dashboard.vue";
 import ManageEmployee from "@/pages/ManageEmployee.vue";
-import TableList from "@/pages/TableList.vue";
+import ProductList from "@/pages/ProductList.vue";
 import Typography from "@/pages/Typography.vue";
 import Icons from "@/pages/Icons.vue";
 import Maps from "@/pages/Maps.vue";
@@ -26,8 +26,8 @@ const routes = [
       },
       {
         path: "table",
-        name: "Table List",
-        component: TableList,
+        name: "รายการสินค้า",
+        component: ProductList,
       },
       {
         path: "typography",

@@ -129,7 +129,7 @@ vue-material-dashboard
     │   │   └── TopNavbar.vue
     │   ├── Maps.vue
     │   ├── Notifications.vue
-    │   ├── TableList.vue
+    │   ├── ProductList.vue
     │   ├── Typography.vue
     │   ├── UpgradeToPRO.vue
     │   ├── ManageEmployee
@@ -197,3 +197,8 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial>
+
+
+##### firebase
+npm run build
+firebase deploy --only hosting
